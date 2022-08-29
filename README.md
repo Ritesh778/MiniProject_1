@@ -16,5 +16,6 @@ fire through the SMS that is sent using the Blynk application. The device can be
 off using Google assistant using the “Switch on” and “Switch Off” commands “Connecting Blynk 
 with Google assistant using IFTTT”. At whatever point a fire happens, the user gets the alert 
 notification through smartphone.
+
 ![outputss](https://user-images.githubusercontent.com/98031410/187287586-24c3ca02-4bf3-4539-bb56-80384a9775e2.jpeg)
 
